@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
+    {"name":"Shaders","order":2,"path":"folders/Shaders.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"shd_nebula","order":2,"path":"shaders/shd_nebula/shd_nebula.yy",},
+    {"name":"spr_nebula","order":7,"path":"sprites/spr_nebula/spr_nebula.yy",},
+  ],
+}
